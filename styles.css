@@ -32,7 +32,20 @@ img {
 .col-md {
   background-color: var(--primarycolor);
 }
+.hero {
+  background-color: var(--primarycolor);
+  padding: 100px;
+  text-align: center;
+}
 
+.hero h3 {
+  color: #fff;
+  font-weight: 200;
+}
+.hero h1 {
+  font-weight: 700;
+  padding-top: 0px;
+}
 p {
   font-family: "Montserrat", sans-serif;
 }
@@ -40,6 +53,13 @@ p {
   background-color: #fff !important;
 }
 
+.btn-hero {
+  border: none;
+  background-color: #fff;
+  color: var(--primarycolor);
+  border-radius: 25px;
+  padding: 10px;
+}
 .nav {
   height: 100px;
   width: auto;
