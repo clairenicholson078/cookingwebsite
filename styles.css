@@ -1,0 +1,66 @@
+:root {
+  --primarycolor: rgba(0, 128, 55, 0.5);
+  --textcolor: #333;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10%;
+  font-family: "Assistant", sans-serif;
+  font-weight: 800;
+  color: #fff;
+}
+h2 {
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+  color: #fff;
+}
+h3 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+  text-align: center;
+}
+h5 {
+  font-family: "Assistant", sans-serif;
+  color: #fff;
+  font-weight: 900;
+}
+img {
+  width: 100%;
+}
+.col-md {
+  background-color: var(--primarycolor);
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+.bg-light {
+  background-color: #fff !important;
+}
+
+.nav {
+  height: 100px;
+  width: auto;
+}
+.featuredrecipes {
+  color: #333;
+}
+
+.page-footer {
+  background-color: var(--primarycolor);
+}
+
+.page-footer p {
+  color: #fff;
+  font-size: 12px;
+}
+.footer-copyright {
+  color: #fff;
+  font-size: 12px;
+}
+.page-footer a {
+  color: #fff;
+  font-size: 12px;
+}
