@@ -15,11 +15,24 @@ h2 {
   font-family: "Assistant", sans-serif;
   color: #fff;
 }
+.featuredrecipes {
+  font-weight: 700;
+  color: (--primarycolor);
+}
+
+.featuredrecipes {
+  color: var(--primarycolor) !important;
+}
+
 h3 {
   font-size: 16px;
   font-weight: 400;
   color: #333;
   text-align: center;
+  font-family: "Assistant", sans-serif;
+}
+.col-md-6 h3 {
+  font-weight: 600;
 }
 h5 {
   font-family: "Assistant", sans-serif;
@@ -60,6 +73,15 @@ p {
   border-radius: 25px;
   padding: 10px;
 }
+.btn-recipes {
+  border: var(--primarycolor);
+  background-color: #fff;
+  color: var(--primarycolor);
+  border-radius: 25px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
 .nav {
   height: 100px;
   width: auto;
@@ -83,4 +105,23 @@ p {
 .page-footer a {
   color: #fff;
   font-size: 12px;
+}
+.row {
+  padding: 2%;
+  text-align: center;
+}
+
+.apple {
+  background-color: var(--primarycolor);
+}
+
+.apple h3 {
+  color: #fff;
+}
+.apple p {
+  color: #fff;
+}
+hr {
+  width: 50%;
+  color: var(--primarycolor);
 }
