@@ -23,7 +23,21 @@ h2 {
 .featuredrecipes {
   color: var(--primarycolor) !important;
 }
-
+.nav-link {
+  color: #fff !important;
+}
+div#navbarNav {
+  width: 100%;
+  padding-left: 50vw;
+}
+.navbar-light .navbar-toggler {
+  color: #fff !important;
+  border-color: #fff !important;
+}
+img.nav {
+  width: 20vw;
+  height: auto;
+}
 h3 {
   font-size: 16px;
   font-weight: 400;
@@ -47,7 +61,6 @@ img {
 }
 .hero {
   background-color: var(--primarycolor);
-  padding: 100px;
   text-align: center;
 }
 
