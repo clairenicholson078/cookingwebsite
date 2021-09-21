@@ -24,8 +24,16 @@ button.btn-hero.white {
   border-width: 1px;
   border-style: solid;
 }
+li a {
+  color: white;
+}
+ul {
+  list-style-type: none;
+}
+
 .books h1 {
   color: #333;
+  font-weight: 700;
 }
 .books h2 {
   color: #333;
