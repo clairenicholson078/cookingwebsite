@@ -20,13 +20,13 @@ h2 {
   color: (--primarycolor);
 }
 .books h1 {
-  font-color: #333;
+  color: #333;
 }
 .books h2 {
-  font-color: #333;
+  color: #333;
 }
 .books h3 {
-  font-color: #333;
+  color: #333;
 }
 .col-md.books {
   background-color: #fff !important;
