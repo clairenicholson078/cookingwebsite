@@ -30,7 +30,9 @@ li a {
 ul {
   list-style-type: none;
 }
-
+.aboutpage {
+  width: 50%;
+}
 .books h1 {
   color: #333;
   font-weight: 700;
