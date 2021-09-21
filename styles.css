@@ -19,6 +19,11 @@ h2 {
   font-weight: 700;
   color: (--primarycolor);
 }
+button.btn-hero.white {
+  border-color: var(--primarycolor);
+  border-width: 1px;
+  border-style: solid;
+}
 .books h1 {
   color: #333;
 }
