@@ -19,6 +19,9 @@ h2 {
   font-weight: 700;
   color: (--primarycolor);
 }
+.recipespage p {
+  text-align: center;
+}
 button.btn-hero.white {
   border-color: var(--primarycolor);
   border-width: 1px;
