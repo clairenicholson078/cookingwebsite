@@ -33,6 +33,10 @@ ul {
 .col-md.recipes {
   background: #fff;
 }
+.recipespage {
+  text-align: center;
+  color: #333;
+}
 .aboutpage {
   width: 50%;
 }
