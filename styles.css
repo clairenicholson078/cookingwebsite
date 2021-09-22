@@ -30,6 +30,9 @@ li a {
 ul {
   list-style-type: none;
 }
+.col-md.recipes {
+  background: #fff;
+}
 .aboutpage {
   width: 50%;
 }
