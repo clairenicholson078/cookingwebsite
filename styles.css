@@ -19,6 +19,29 @@ h2 {
   font-weight: 700;
   color: (--primarycolor);
 }
+.col-md.recipes li {
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+}
+.col-md.ingredients {
+  border-radius: 25px;
+  box-shadow: 0 0 10px;
+  margin: 20px;
+}
+.getintouch {
+  color: white;
+}
+p.ingredients {
+  color: white;
+}
+.ingredient {
+  padding-top: 25px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+}
+
 .recipespage p {
   text-align: center;
 }
